@@ -1,0 +1,1275 @@
+[
+    
+    {
+        "timezones": [
+            "Africa/Johannesburg"
+        ], 
+        "latlng": [
+            -15.7, 
+            -36.6
+        ], 
+        "name": "1", 
+        "country_code": "ZA", 
+        "capital": "Pretoria"
+    }, 
+    {
+        "timezones": [
+            "Africa/Lusaka"
+        ], 
+        "latlng": [
+            -2.9, 
+            -50.3
+        ], 
+        "name": "3", 
+        "country_code": "ZM", 
+        "capital": "Lusaka"
+    }, 
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            1.1, 
+            -44.7
+        ], 
+        "name": "5", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            43.5, 
+            55.5
+        ], 
+        "name": "6", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            25, 
+            53.2
+        ], 
+        "name": "7", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -23.7, 
+            -35.5
+        ], 
+        "name": "8", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -6, 
+            -19.7
+        ], 
+        "name": "9", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -35.7, 
+            -40.3
+        ], 
+        "name": "10", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            9.2, 
+            17.5
+        ], 
+        "name": "11", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -19.1, 
+            -41.7
+        ], 
+        "name": "13", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -29.6, 
+            -44.4
+        ], 
+        "name": "14", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            0.7, 
+            -3.9
+        ], 
+        "name": "15", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            7.5, 
+            6.3
+        ], 
+        "name": "16", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            25.5, 
+            -21.9
+        ], 
+        "name": "17", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            23.3, 
+            32.7
+        ], 
+        "name": "18", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            27.7, 
+            34.4
+        ], 
+        "name": "19", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            23.7, 
+            -31.4
+        ], 
+        "name": "20", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -18.2, 
+            -50.8
+        ], 
+        "name": "21", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            21.6, 
+            43.6
+        ], 
+        "name": "22", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            35.1, 
+            35.1
+        ], 
+        "name": "25", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            14.3, 
+            5.2
+        ], 
+        "name": "26", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            23, 
+            20.4
+        ], 
+        "name": "27", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            8.1, 
+            10.3
+        ], 
+        "name": "28", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            53.4, 
+            60.9
+        ], 
+        "name": "29", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            12.7, 
+            -35.7
+        ], 
+        "name": "30", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            25, 
+            43.6
+        ], 
+        "name": "32", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            5.1, 
+            115.8
+        ], 
+        "name": "33", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            6.8, 
+            -7.2
+        ], 
+        "name": "34", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            5, 
+            36.1
+        ], 
+        "name": "35", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            27.5, 
+            -4.6
+        ], 
+        "name": "36", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            22.5, 
+            29.7
+        ], 
+        "name": "37", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            7.8, 
+            43.3
+        ], 
+        "name": "38", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -21.9, 
+            -12.7
+        ], 
+        "name": "39", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -1.3, 
+            -10.3
+        ], 
+        "name": "40", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            13.8, 
+            -29.2
+        ], 
+        "name": "41", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            22.2, 
+            -50.7
+        ], 
+        "name": "42", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            50.2, 
+            60.2
+        ], 
+        "name": "44", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            8.6, 
+            -50.8
+        ], 
+        "name": "49", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            8.7, 
+            -53.4
+        ], 
+        "name": "50", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            12.3, 
+            37.7
+        ], 
+        "name": "51", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -10.1, 
+            -39.2
+        ], 
+        "name": "53", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            13.1, 
+            -52.4
+        ], 
+        "name": "54", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            1.1, 
+            -20.6
+        ], 
+        "name": "56", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -9.5, 
+            -53.6
+        ], 
+        "name": "59", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            24.1, 
+            -52.2
+        ], 
+        "name": "60", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            30.1, 
+            53.2
+        ], 
+        "name": "64", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            46.6, 
+            42.3
+        ], 
+        "name": "65", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            34.8, 
+            63
+        ], 
+        "name": "70", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -20.9, 
+            -16.8
+        ], 
+        "name": "71", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            21.1, 
+            -44
+        ], 
+        "name": "73", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            34.7, 
+            60.1
+        ], 
+        "name": "74", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            24.6, 
+            -23.4
+        ], 
+        "name": "77", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            27.5, 
+            34.3
+        ], 
+        "name": "82", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -40.9, 
+            -40.6
+        ], 
+        "name": "86", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            6.2, 
+            11.9
+        ], 
+        "name": "96", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -8.4, 
+            17.9
+        ], 
+        "name": "97", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            10, 
+            22.8
+        ], 
+        "name": "99", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -2, 
+            32.2
+        ], 
+        "name": "100", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            41, 
+            53.4
+        ], 
+        "name": "107", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            15.5, 
+            55.6
+        ], 
+        "name": "114", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -40.6, 
+            -3.8
+        ], 
+        "name": "201", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            1, 
+            2.8
+        ], 
+        "name": "202", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            0.5, 
+            47.3
+        ], 
+        "name": "203", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -28.4, 
+            -66.6
+        ], 
+        "name": "204", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -26.5, 
+            -35.1
+        ], 
+        "name": "209", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            12.8, 
+            -36.2
+        ], 
+        "name": "212", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -13.7, 
+            -21.6
+        ], 
+        "name": "216", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -2.4, 
+            -73.3
+        ], 
+        "name": "218", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            36.1, 
+            -2.4
+        ], 
+        "name": "223", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -50.7, 
+            -21.4
+        ], 
+        "name": "224", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            6.3, 
+            22.1
+        ], 
+        "name": "230", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            34.3, 
+            45
+        ], 
+        "name": "231", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            24.1, 
+            26.1
+        ], 
+        "name": "233", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            36.8, 
+            21.2
+        ], 
+        "name": "234", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -7.8, 
+            5.4
+        ], 
+        "name": "236", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            12.2, 
+            3.5
+        ], 
+        "name": "237", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            26.3, 
+            20
+        ], 
+        "name": "238", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            26.7, 
+            5.2
+        ], 
+        "name": "239", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -69.4, 
+            75.4
+        ], 
+        "name": "241", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            58.6, 
+            54.2
+        ], 
+        "name": "242", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            7, 
+            8.3
+        ], 
+        "name": "243", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            34.6, 
+            56.1
+        ], 
+        "name": "244", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            8.6, 
+            73
+        ], 
+        "name": "245", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    }, 
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            19.4, 
+            24.3
+        ], 
+        "name": "246", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            5.3, 
+            3.6
+        ], 
+        "name": "248", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    }, 
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -3.4, 
+            12.5
+        ], 
+        "name": "249", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -3.6, 
+            21.5
+        ], 
+        "name": "250", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -46.5, 
+            38.9
+        ], 
+        "name": "251", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            1.4, 
+            15
+        ], 
+        "name": "255", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            35, 
+            19.1
+        ], 
+        "name": "257", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -7.1, 
+            15.3
+        ], 
+        "name": "258", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            3.4, 
+            2
+        ], 
+        "name": "259", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -1.7, 
+            18
+        ], 
+        "name": "260", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -7.6, 
+            36.7
+        ], 
+        "name": "267", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            53.8, 
+            35.2
+        ], 
+        "name": "271", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -50, 
+            53.2
+        ], 
+        "name": "272", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -3.7, 
+            -33.9
+        ], 
+        "name": "276", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            4.4, 
+            -4.7
+        ], 
+        "name": "279", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            2.4, 
+            46.1
+        ], 
+        "name": "280", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            -53.2, 
+            -54.4
+        ], 
+        "name": "281", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    }, 
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            15.5, 
+            97
+        ], 
+        "name": "282", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    }, 
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            7.1, 
+            22.5
+        ], 
+        "name": "283", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            42.9, 
+            110.9
+        ], 
+        "name": "285", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            54.2, 
+            56.5
+        ], 
+        "name": "286", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            24.8, 
+            35.7
+        ], 
+        "name": "287", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    },  
+    {
+        "timezones": [
+            "Africa/Harare"
+        ], 
+        "latlng": [
+            10.6, 
+            6.4
+        ], 
+        "name": "290", 
+        "country_code": "ZW", 
+        "capital": "Harare"
+    }
+]
